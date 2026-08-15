@@ -98,15 +98,15 @@
 ---
 
 ### 📊 GitHub Stats
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=mohitjangid21797-crypto&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&include_all_commits=false&count_private=false" />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=mohitjangid21797-crypto&theme=radical&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohitjangid21797-crypto&theme=radical&hide_border=true&layout=compact" />
-</p>
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohitjangid21797-crypto&hide_border=true&layout=compact&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohitjangid21797-crypto&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com/?user=mohitjangid21797-crypto&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
+
+<img src="https://github-contributor-stats.vercel.app/api?username=mohitjangid21797-crypto&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 ---
 
