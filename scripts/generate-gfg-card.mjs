@@ -11,10 +11,11 @@
 // those fields aren't available from any public GFG scraper as of now, so this
 // card intentionally only shows what can actually be fetched live.
 
+// scripts/generate-gfg-card.mjs
 import fs from "fs";
 
-const username = process.argv[2] || "@mohitjangid108";
-const API_URL = `https://geeks-for-geeks-stats-api.vercel.app/?raw=y&userName=${encodeURIComponent(username)}`;
+const username = process.argv[2] || "mohitjangid108";
+const API_URL = `https://gfgstatscard.vercel.app/${encodeURIComponent(username)}?raw=true`;
 
 async function fetchJson(url) {
   try {
