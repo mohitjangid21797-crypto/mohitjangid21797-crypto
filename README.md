@@ -69,9 +69,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50" title="LeetCode"/>
       </a>
       &nbsp;&nbsp;
-      <a href="https://www.geeksforgeeks.org/user/mohitjangid108">
-        <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46?viewbox=auto" height="50" title="GeeksforGeeks"/>
-      </a>
+     <a href="https://www.geeksforgeeks.org/profile/mohitjangid108">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46?viewbox=auto"
+       height="50"
+       title="GeeksforGeeks"/>
+</a>
     </td>
   </tr>
 </table>
