@@ -62,6 +62,31 @@
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" height="28"/>
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>Coding Profiles</b></td>
+    <td align="center">
+      <a href="https://leetcode.com/u/IQ4F840Csl">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50" title="LeetCode"/>
+      </a>
+      &nbsp;&nbsp;
+      <a href="https://www.geeksforgeeks.org/user/mohitjangid108">
+        <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" height="50" title="GeeksforGeeks"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/IQ4F840Csl?theme=dark&font=Fira%20Code&ext=heatmap" />
+    </td>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/mohitjangid108">
+        <img src="https://gfgstatscard.vercel.app/mohitjangid108?theme=dark" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
