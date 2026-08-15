@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohit Suthar 👋</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/main/banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/main/banner(1).svg" width="100%" />
 </p>
 <h3 align="center">Full Stack Developer • DSA Problem Solver • Data Analytics Enthusiast</h3>
 
