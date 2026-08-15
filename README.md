@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/mohitjangid108">
-    <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/main/gfg-profile-card.svg" width="90%"/>
+    <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/main/gfg-profile-card.svg" width="60%"/>
   </a>
 </p>
 
