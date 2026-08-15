@@ -80,18 +80,15 @@
   </tr>
 </table>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://leetcard.jacoblin.cool/IQ4F840Csl?theme=dark&font=Fira%20Code&ext=heatmap" />
-    </td>
-    <td align="center">
-      <a href="https://www.geeksforgeeks.org/profile/mohitjangid108">
-        <img src="https://gfgstatscard.vercel.app/mohitjangid108?theme=dark" alt="GeeksforGeeks Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/IQ4F840Csl?theme=dark&font=Fira%20Code&ext=heatmap" width="48%"/>
+</p>
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/mohitjangid108">
+    <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/main/gfg-profile-card.svg" width="90%"/>
+  </a>
+</p>
 
 ---
 
