@@ -70,7 +70,7 @@
       </a>
       &nbsp;&nbsp;
       <a href="https://www.geeksforgeeks.org/user/mohitjangid108">
-        <img src="https://www.vectorlogo.zone/logos/geeksforgeeks/geeksforgeeks-icon.svg" height="50" title="GeeksforGeeks"/>
+        <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46?viewbox=auto" height="50" title="GeeksforGeeks"/>
       </a>
     </td>
   </tr>
