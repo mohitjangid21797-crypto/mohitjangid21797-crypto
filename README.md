@@ -73,11 +73,9 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="50" title="LeetCode"/>
       </a>
       &nbsp;&nbsp;
-     <a href="https://www.geeksforgeeks.org/profile/mohitjangid108">
-  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46?viewbox=auto"
-       height="50"
-       title="GeeksforGeeks"/>
-</a>
+      <a href="https://www.geeksforgeeks.org/profile/mohitjangid108">
+        <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46?viewbox=auto" height="50" title="GeeksforGeeks"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -88,8 +86,8 @@
       <img src="https://leetcard.jacoblin.cool/IQ4F840Csl?theme=dark&font=Fira%20Code&ext=heatmap" />
     </td>
     <td align="center">
-      <a href="https://www.geeksforgeeks.org/user/mohitjangid108">
-        <img src="https://gfgstatscard.vercel.app/mohitjangid108?theme=dark" />
+      <a href="https://www.geeksforgeeks.org/profile/mohitjangid108">
+        <img src="https://gfgstatscard.vercel.app/mohitjangid108?theme=dark" alt="GeeksforGeeks Stats" />
       </a>
     </td>
   </tr>
@@ -98,15 +96,18 @@
 ---
 
 ### 📊 GitHub Stats
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=mohitjangid21797-crypto&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1&icon_color=A78BFA&include_all_commits=false&count_private=false" />
-
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohitjangid21797-crypto&hide_border=true&layout=compact&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" />
-
-<img src="https://streak-stats.demolab.com/?user=mohitjangid21797-crypto&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B" alt="GitHub Streak" />
-
-<img src="https://github-contributor-stats.vercel.app/api?username=mohitjangid21797-crypto&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<div align="center">
+  <img height="180"
+    src="https://github-readme-stats.shion.dev/api?username=mohitjangid21797-crypto&show_icons=true&hide_border=true&theme=tokyonight"
+    alt="GitHub Stats" />
+  <img height="180"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohitjangid21797-crypto&layout=compact&hide_border=true&theme=tokyonight"
+    alt="Top Languages" />
+  <br><br>
+  <img
+    src="https://streak-stats.demolab.com/?user=mohitjangid21797-crypto&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak" />
+</div>
 
 ---
 
