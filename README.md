@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/main/banner.svg" width="100%" />
 </p>
-<h3 align="center">B.Tech CSE Student • Flutter Developer • DSA & Data Analytics Enthusiast</h3>
+<h3 align="center"> • Full Stack Developer • DSA Problem Solver & Data Analytics Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+%26+mobile+apps;Solving+DSA+problems+daily;Exploring+Data+Analytics+with+Python;Always+learning%2C+always+shipping" alt="Typing SVG" />
