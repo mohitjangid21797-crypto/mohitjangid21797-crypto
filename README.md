@@ -25,10 +25,8 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering student at **Mohan Lal Sukhadia University (MLSU), Udaipur**
-- 💼 Former **Flutter Developer Intern** at 2130 GROUP — built fintech, GPS tracking, and IoT fleet-management apps
-- 🧠 Currently sharpening **DSA** (Striver's A2Z Sheet) and preparing for FAANG-style interviews
+- 🧠 Currently sharpening **DSA** (Coder Army ) and preparing for FAANG-style interviews
 - 📊 Exploring **Data Analytics** with Python — pandas, matplotlib, seaborn, NumPy
-- 🏗️ Building **Aqua Premium HMS** — a Flutter + Spring Boot + PostgreSQL hospital management system
 - 🌱 Learning full-stack development and experimenting with AI-assisted dev tools
 
 ---
