@@ -13,7 +13,7 @@
 
 import fs from "fs";
 
-const username = process.argv[2] || "mohitjangid108";
+const username = process.argv[2] || "@mohitjangid108";
 const API_URL = `https://geeks-for-geeks-stats-api.vercel.app/?raw=y&userName=${encodeURIComponent(username)}`;
 
 async function fetchJson(url) {
