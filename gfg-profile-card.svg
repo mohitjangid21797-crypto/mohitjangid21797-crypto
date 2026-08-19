@@ -12,21 +12,21 @@
   <g transform="translate(140,175)">
     <circle r="82" fill="none" stroke="#21262d" stroke-width="18"/>
     <circle r="82" fill="none" stroke="#4dd0e1" stroke-width="18" stroke-dasharray="0 515.2" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#7ED957" stroke-width="18" stroke-dasharray="172.29639344262296 515.2" stroke-dashoffset="0" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#4caf50" stroke-width="18" stroke-dasharray="192.5665573770492 515.2" stroke-dashoffset="-172.29639344262296" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#f5a623" stroke-width="18" stroke-dasharray="130.06688524590166 515.2" stroke-dashoffset="-364.86295081967216" transform="rotate(-90)"/>
-    <circle r="82" fill="none" stroke="#ef4743" stroke-width="18" stroke-dasharray="20.270163934426233 515.2" stroke-dashoffset="-494.9298360655738" transform="rotate(-90)"/>
-    <text x="0" y="-6" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="38" font-weight="800" fill="#ffffff">305</text>
+    <circle r="82" fill="none" stroke="#7ED957" stroke-width="18" stroke-dasharray="176.6871794871795 515.2" stroke-dashoffset="0" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#4caf50" stroke-width="18" stroke-dasharray="188.24615384615385 515.2" stroke-dashoffset="-176.6871794871795" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#f5a623" stroke-width="18" stroke-dasharray="130.45128205128205 515.2" stroke-dashoffset="-364.93333333333334" transform="rotate(-90)"/>
+    <circle r="82" fill="none" stroke="#ef4743" stroke-width="18" stroke-dasharray="19.81538461538462 515.2" stroke-dashoffset="-495.38461538461536" transform="rotate(-90)"/>
+    <text x="0" y="-6" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="38" font-weight="800" fill="#ffffff">312</text>
     <text x="0" y="20" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="13" fill="#8b949e">Problems Solved</text>
   </g>
 
   <g transform="translate(320,100)" font-family="Segoe UI, sans-serif" font-size="15" fill="#c9d1d9">
     <rect x="0" y="0" width="10" height="10" rx="2" fill="#4dd0e1"/><text x="18" y="10">School (0)</text>
-    <rect x="0" y="30" width="10" height="10" rx="2" fill="#7ED957"/><text x="18" y="40">Basic (102)</text>
+    <rect x="0" y="30" width="10" height="10" rx="2" fill="#7ED957"/><text x="18" y="40">Basic (107)</text>
     <rect x="0" y="60" width="10" height="10" rx="2" fill="#4caf50"/><text x="18" y="70">Easy (114)</text>
-    <rect x="0" y="90" width="10" height="10" rx="2" fill="#f5a623"/><text x="18" y="100">Medium (77)</text>
+    <rect x="0" y="90" width="10" height="10" rx="2" fill="#f5a623"/><text x="18" y="100">Medium (79)</text>
     <rect x="0" y="120" width="10" height="10" rx="2" fill="#ef4743"/><text x="18" y="130">Hard (12)</text>
   </g>
 
-  <text x="596" y="248" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" fill="#484f58">Updated 2026-08-18</text>
+  <text x="596" y="248" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="10" fill="#484f58">Updated 2026-08-19</text>
 </svg>
