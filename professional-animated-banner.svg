@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Mohit Suthar — Full Stack Developer</title>
+  <desc id="description">An animated professional developer banner.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="50%" stop-color="#102a43"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" fill="none" stroke="#7dd3fc" stroke-opacity=".10"/>
+    </pattern>
+    <style>
+      .pulse { animation: pulse 3s ease-in-out infinite; transform-origin: center; }
+      .float-a { animation: float-a 7s ease-in-out infinite; }
+      .float-b { animation: float-b 9s ease-in-out infinite; }
+      .scan { animation: scan 5s linear infinite; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes pulse { 0%,100% { opacity:.35; } 50% { opacity:1; } }
+      @keyframes float-a { 0%,100% { transform:translate(0,0); } 50% { transform:translate(-15px,12px); } }
+      @keyframes float-b { 0%,100% { transform:translate(0,0); } 50% { transform:translate(14px,-15px); } }
+      @keyframes scan { 0% { transform:translateX(-280px); } 100% { transform:translateX(1480px); } }
+      @keyframes blink { 0%,48% { opacity:1; } 49%,100% { opacity:0; } }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <g class="float-a" opacity=".42">
+    <circle cx="1057" cy="62" r="150" fill="#0ea5e9" opacity=".12"/>
+    <circle cx="1061" cy="57" r="102" fill="none" stroke="#38bdf8" stroke-opacity=".3"/>
+  </g>
+  <g class="float-b" opacity=".38">
+    <circle cx="947" cy="268" r="105" fill="#8b5cf6" opacity=".12"/>
+    <circle cx="947" cy="268" r="68" fill="none" stroke="#a78bfa" stroke-opacity=".26"/>
+  </g>
+  <rect class="scan" x="-300" y="0" width="220" height="320" fill="#7dd3fc" opacity=".05" transform="skewX(-18)"/>
+
+  <rect x="72" y="76" width="8" height="165" rx="4" fill="url(#accent)" filter="url(#glow)"/>
+  <text x="112" y="127" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing=".5">Mohit Suthar</text>
+  <text x="114" y="166" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="3">FULL STACK DEVELOPER</text>
+  <text x="114" y="204" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="21">DSA Problem Solver </text>
+  <line x1="114" y1="228" x2="516" y2="228" stroke="url(#line)" stroke-width="2"/>
+  <text x="114" y="264" fill="#94a3b8" font-family="ui-monospace, Consolas, monospace" font-size="16">const mindset = 'learn • build • ship';</text>
+  <rect class="cursor" x="493" y="249" width="10" height="20" rx="1" fill="#67e8f9"/>
+
+  <g transform="translate(897 104)">
+    <rect width="196" height="126" rx="15" fill="#081521" fill-opacity=".78" stroke="#38bdf8" stroke-opacity=".38"/>
+    <path d="M34 46h29M34 63h66M34 80h46" stroke="#67e8f9" stroke-width="5" stroke-linecap="round"/>
+    <path d="M121 43l17 17-17 17M157 43l-17 17 17 17" fill="none" stroke="#a78bfa" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle class="pulse" cx="166" cy="20" r="5" fill="#34d399"/>
+  </g>
+</svg>
