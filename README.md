@@ -115,7 +115,7 @@
 ### 📈 Contribution Graph (Animated)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/output/contribution-bar-chart.svg" 
+  <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/main/output/contribution-bar-chart.svg" 
        width="100%" 
        alt="Animated Contribution Bar Chart" />
 </div>
