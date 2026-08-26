@@ -53,7 +53,7 @@
   <rect x="72" y="76" width="8" height="165" rx="4" fill="url(#accent)" filter="url(#glow)"/>
   <text x="112" y="127" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing=".5">Mohit Suthar</text>
   <text x="114" y="166" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" letter-spacing="3">FULL STACK DEVELOPER</text>
-  <text x="114" y="204" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="21">DSA Problem Solver  •  Data Analytics Enthusiast</text>
+  <text x="114" y="204" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="21">DSA Problem Solver </text>
   <line x1="114" y1="228" x2="516" y2="228" stroke="url(#line)" stroke-width="2"/>
   <text x="114" y="264" fill="#94a3b8" font-family="ui-monospace, Consolas, monospace" font-size="16">const mindset = 'learn • build • ship';</text>
   <rect class="cursor" x="493" y="249" width="10" height="20" rx="1" fill="#67e8f9"/>
