@@ -106,15 +106,9 @@
     alt="GitHub Streak" />
 </div>
 
----
 
-### 🏆 Top Contributed Repo
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=mohitjangid21797-crypto&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
 
----
 
 ### 🐍 Contribution Snake
 
