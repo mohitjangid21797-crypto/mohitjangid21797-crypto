@@ -120,6 +120,11 @@
   </picture>
 </div>
 
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjangid21797-crypto&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Contribution Graph" />
+</div>
 ---
 
 ### ✍️ Dev Quote of the Moment
