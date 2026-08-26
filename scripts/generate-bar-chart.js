@@ -57,7 +57,7 @@ function generateSVG(weeks) {
 
     bars += `
       <rect x="${x}" y="${height - 10}" width="${barWidth}" height="0" rx="4"
-            fill="#39d353">
+            fill="#58a6ff">
         <animate attributeName="height" from="0" to="${h}" dur="0.8s" begin="${delay}s" fill="freeze"/>
         <animate attributeName="y" from="${height - 10}" to="${y}" dur="0.8s" begin="${delay}s" fill="freeze"/>
       </rect>
