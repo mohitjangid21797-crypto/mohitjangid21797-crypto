@@ -112,13 +112,13 @@
   </picture>
 </div>
 
-### 📈 Contribution Graph
+### 📈 Contribution Graph (Animated)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjangid21797-crypto&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area_color=58a6ff&area=true&hide_border=true&custom_title=" 
-       alt="Contribution Graph" 
-       width="100%"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohitjangid21797-crypto/mohitjangid21797-crypto/output/contribution-bar-chart.svg" 
+       width="100%" 
+       alt="Animated Contribution Bar Chart" />
+</div>
 
 
 ### ✍️ Dev Quote of the Moment
