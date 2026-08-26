@@ -101,14 +101,6 @@
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohitjangid21797-crypto&layout=compact&hide_border=true&theme=tokyonight"
     alt="Top Languages" />
   <br><br>
-  <img
-    src="https://streak-stats.demolab.com/?user=mohitjangid21797-crypto&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak" />
-</div>
-
-
-
-
 
 ### 🐍 Contribution Snake
 
@@ -120,12 +112,6 @@
   </picture>
 </div>
 
-### 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjangid21797-crypto&theme=tokyo-night&hide_border=true&area=true" width="90%" alt="Contribution Graph" />
-</div>
----
 
 ### ✍️ Dev Quote of the Moment
 
