@@ -92,14 +92,14 @@
     
       <rect x="590" y="150" width="28" height="0" rx="4"
             fill="#58a6ff">
-        <animate attributeName="height" from="0" to="33" dur="0.8s" begin="2.52s" fill="freeze"/>
-        <animate attributeName="y" from="150" to="117" dur="0.8s" begin="2.52s" fill="freeze"/>
+        <animate attributeName="height" from="0" to="41" dur="0.8s" begin="2.52s" fill="freeze"/>
+        <animate attributeName="y" from="150" to="109" dur="0.8s" begin="2.52s" fill="freeze"/>
       </rect>
     
       <rect x="630" y="150" width="28" height="0" rx="4"
             fill="#58a6ff">
-        <animate attributeName="height" from="0" to="0" dur="0.8s" begin="2.70s" fill="freeze"/>
-        <animate attributeName="y" from="150" to="150" dur="0.8s" begin="2.70s" fill="freeze"/>
+        <animate attributeName="height" from="0" to="68" dur="0.8s" begin="2.70s" fill="freeze"/>
+        <animate attributeName="y" from="150" to="82" dur="0.8s" begin="2.70s" fill="freeze"/>
       </rect>
     
 </svg>
