@@ -80,26 +80,26 @@
     
       <rect x="510" y="150" width="28" height="0" rx="4"
             fill="#58a6ff">
-        <animate attributeName="height" from="0" to="26" dur="0.8s" begin="2.16s" fill="freeze"/>
-        <animate attributeName="y" from="150" to="124" dur="0.8s" begin="2.16s" fill="freeze"/>
+        <animate attributeName="height" from="0" to="17" dur="0.8s" begin="2.16s" fill="freeze"/>
+        <animate attributeName="y" from="150" to="133" dur="0.8s" begin="2.16s" fill="freeze"/>
       </rect>
     
       <rect x="550" y="150" width="28" height="0" rx="4"
             fill="#58a6ff">
-        <animate attributeName="height" from="0" to="29" dur="0.8s" begin="2.34s" fill="freeze"/>
-        <animate attributeName="y" from="150" to="121" dur="0.8s" begin="2.34s" fill="freeze"/>
+        <animate attributeName="height" from="0" to="24" dur="0.8s" begin="2.34s" fill="freeze"/>
+        <animate attributeName="y" from="150" to="126" dur="0.8s" begin="2.34s" fill="freeze"/>
       </rect>
     
       <rect x="590" y="150" width="28" height="0" rx="4"
             fill="#58a6ff">
-        <animate attributeName="height" from="0" to="94" dur="0.8s" begin="2.52s" fill="freeze"/>
-        <animate attributeName="y" from="150" to="56" dur="0.8s" begin="2.52s" fill="freeze"/>
+        <animate attributeName="height" from="0" to="79" dur="0.8s" begin="2.52s" fill="freeze"/>
+        <animate attributeName="y" from="150" to="71" dur="0.8s" begin="2.52s" fill="freeze"/>
       </rect>
     
       <rect x="630" y="150" width="28" height="0" rx="4"
             fill="#58a6ff">
-        <animate attributeName="height" from="0" to="2" dur="0.8s" begin="2.70s" fill="freeze"/>
-        <animate attributeName="y" from="150" to="148" dur="0.8s" begin="2.70s" fill="freeze"/>
+        <animate attributeName="height" from="0" to="12" dur="0.8s" begin="2.70s" fill="freeze"/>
+        <animate attributeName="y" from="150" to="138" dur="0.8s" begin="2.70s" fill="freeze"/>
       </rect>
     
 </svg>
