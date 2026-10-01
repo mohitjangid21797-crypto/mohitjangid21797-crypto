@@ -44,19 +44,21 @@
       <img src="https://skillicons.dev/icons?i=cpp,java,python,dart" height="50"/>
     </td>
   </tr>
-  <tr>
+   <tr>
     <td align="center"><b>Mobile &amp; Frameworks</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=flutter,spring" height="50"/>
+      <img src="https://cdn.simpleicons.org/springboot/6DB33F" height="50" title="Spring Boot"/>
     </td>
   </tr>
-  <tr>
+   <tr>
     <td align="center"><b>Databases</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="50"/>
+      <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" title="MySQL"/>
     </td>
   </tr>
-  <tr>
+    <tr>
     <td align="center"><b>Data &amp; Tools</b></td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=py,git" height="50"/>&nbsp;
@@ -64,6 +66,7 @@
       <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
       <img src="https://img.shields.io/badge/Seaborn-2C4B7C?style=flat-square" height="28"/>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" height="28"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28"/>
     </td>
   </tr>
   <tr>
@@ -101,6 +104,7 @@
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohitjangid21797-crypto&layout=compact&hide_border=true&theme=tokyonight"
     alt="Top Languages" />
   <br><br>
+</div>
 
 ### 🐍 Contribution Snake
 
