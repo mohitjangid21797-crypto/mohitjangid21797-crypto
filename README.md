@@ -57,18 +57,17 @@
       <img src="https://skillicons.dev/icons?i=postgres,mongodb" height="50"/>
       <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" title="MySQL"/>
     </td>
-  </tr>
-    <tr>
-    <td align="center"><b>Data &amp; Tools</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,git" height="50"/>&nbsp;
-      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/Seaborn-2C4B7C?style=flat-square" height="28"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" height="28"/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28"/>
-    </td>
-  </tr>
+  <tr>
+  <td align="center"><b>Data &amp; Tools</b></td>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=py,git" height="50" title="Python & Git"/>&nbsp;
+    <img src="https://cdn.simpleicons.org/pandas/150458" height="50" title="Pandas"/>&nbsp;
+    <img src="https://cdn.simpleicons.org/numpy/013243" height="50" title="NumPy"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="50" title="Matplotlib"/>&nbsp;
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" title="Seaborn"/>&nbsp;
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="50" title="Streamlit"/>
+  </td>
+</tr>
   <tr>
     <td align="center"><b>Coding Profiles</b></td>
     <td align="center">
