@@ -3,7 +3,7 @@
 // Run: node scripts/generate-gfg-card.mjs <gfg-username>
 //
 // Solved counts: https://gfgstatscard.vercel.app/<user>?raw=true
-// Heatmap (daily submissions): GfG practice API (unverified; card falls back if it fails)
+// Heatmap (daily submissions): GfG practice API (card falls back if it fails)
 
 import fs from "fs";
 
@@ -94,7 +94,8 @@ function buildHeatmap(days, yTop) {
   start.setUTCDate(end.getUTCDate() - (52 * 7 + end.getUTCDay()));
 
   const months = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-  let cells = "", labels = "", lastMonth = -1, total = 0, activeDays = 0;
+  let cells = "", lastMonth = -1, total = 0, activeDays = 0;
+  const monthMarks = [];
 
   for (let i = 0; i <= 52 * 7 + end.getUTCDay(); i++) {
     const d = new Date(start);
@@ -108,14 +109,22 @@ function buildHeatmap(days, yTop) {
 
     if (row === 0 && d.getUTCMonth() !== lastMonth) {
       lastMonth = d.getUTCMonth();
-      labels += `<text x="${x0 + col * STEP}" y="${yTop + 20}" font-family="Segoe UI, sans-serif" font-size="9" fill="#8b949e">${months[lastMonth]}</text>`;
+      monthMarks.push({ col, name: months[lastMonth] });
     }
     cells += `<rect x="${x0 + col * STEP}" y="${gridY + row * STEP}" width="${CELL}" height="${CELL}" rx="2" fill="${levelColor(count)}"><title>${key}: ${count} submission(s)</title></rect>`;
   }
 
+  // Drop the first label if the next month starts too close (avoids "Sep" and "Oct" overlapping)
+  if (monthMarks.length > 1 && monthMarks[1].col - monthMarks[0].col < 3) monthMarks.shift();
+  const labels = monthMarks.map((m) =>
+    `<text x="${x0 + m.col * STEP}" y="${yTop + 20}" font-family="Segoe UI, sans-serif" font-size="9" fill="#8b949e">${m.name}</text>`
+  ).join("");
+
+  // Legend: [Less] [5 squares] [More], spaced so nothing overlaps
   const legendY = gridY + 7 * STEP + 14;
+  const legendX = 514; // first square; last square ends at 570
   const legend = [0, 1, 2, 4, 7].map((c, i) =>
-    `<rect x="${530 + i * 12}" y="${legendY - 8}" width="${CELL}" height="${CELL}" rx="2" fill="${levelColor(c)}"/>`
+    `<rect x="${legendX + i * 12}" y="${legendY - 8}" width="${CELL}" height="${CELL}" rx="2" fill="${levelColor(c)}"/>`
   ).join("");
 
   const svg = `
@@ -123,7 +132,7 @@ function buildHeatmap(days, yTop) {
   <text x="45" y="${yTop + 6}" font-family="Segoe UI, sans-serif" font-size="13" font-weight="600" fill="#e6edf3">${total} submissions in the last year · ${activeDays} active days</text>
   ${labels}
   ${cells}
-  <text x="518" y="${legendY}" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="9" fill="#8b949e">Less</text>
+  <text x="${legendX - 6}" y="${legendY}" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="9" fill="#8b949e">Less</text>
   ${legend}
   <text x="596" y="${legendY}" text-anchor="end" font-family="Segoe UI, sans-serif" font-size="9" fill="#8b949e">More</text>`;
 
