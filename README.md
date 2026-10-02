@@ -96,14 +96,23 @@
 
 ### 📊 GitHub Stats
 <div align="center">
+
+  <!-- Row 1: stats + top languages -->
   <img height="180"
-    src="https://github-readme-stats.shion.dev/api?username=mohitjangid21797-crypto&show_icons=true&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.shion.dev/api?username=mohitjangid21797-crypto&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github&card_width=400"
     alt="GitHub Stats" />
   <img height="180"
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohitjangid21797-crypto&layout=compact&hide_border=true&theme=tokyonight"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohitjangid21797-crypto&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&card_width=400"
     alt="Top Languages" />
+
   <br><br>
-</div>
+
+  <!-- Row 2: streak -->
+  <img height="170"
+    src="https://streak-stats.demolab.com/?user=mohitjangid21797-crypto&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak" />
+
+  <br><br>
 
 ### 🐍 Contribution Snake
 
