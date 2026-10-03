@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohit Suthar 👋</h1>
 <div align="center">
-  <img src="./banner.svg" width="100%" alt="Mohit Suthar banner" />
+  <img src="./bannernew.svg" width="100%" alt="Mohit Suthar banner" />
 </div>
 <h3 align="center">Full Stack Developer • DSA Problem Solver • Data Analytics Enthusiast</h3>
 
