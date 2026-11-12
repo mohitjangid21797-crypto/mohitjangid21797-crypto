@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mohit Suthar 👋</h1>
+
 <div align="center">
   <img src="./bannernew.svg" width="100%" alt="Mohit Suthar banner" />
 </div>
